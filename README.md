@@ -39,6 +39,7 @@
 ### TypeScript
 
 
-### 三四天学会一门新技术之....
-### 一两个礼拜一个小项目之...
+## Node 参考资料
+
+- [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)
 
